@@ -8,6 +8,7 @@ All of these tweaks are pre-patched with Jake's Patcher. That makes this process
 lots of tweaks only have this folder, but some need a bit more work:
 
 copy all prefrences to /var/containers/Bundle/tweaksupport/Library/PrefernceLoader/Preferences in Filza
+
 copy the .bundel to /var/containers/Bundle/tweaksupport/Library/PrefernceBundles in Filza
 
 As for installing Filza I Reccomend you follow Jakes Tutorial @ https://www.youtube.com/watch?v=HxmaZldVubc&t=36s

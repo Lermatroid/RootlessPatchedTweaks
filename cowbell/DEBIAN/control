@@ -1,0 +1,10 @@
+Package: com.laughingquoll.cowbell
+Name: Cowbell
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Make the low power module great again.
+Maintainer: LaughingQuoll
+Author: LaughingQuoll
+Section: Tweaks
+Version: 1.2.1
+Installed-Size: 120

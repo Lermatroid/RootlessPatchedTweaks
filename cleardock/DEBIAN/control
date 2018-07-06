@@ -1,0 +1,16 @@
+Name: ClearDock
+Package: com.cabralcole.cleardock
+Priority: optional
+Depends: firmware (>= 9.0), mobilesubstrate
+Version: 1.0-2
+Architecture: iphoneos-arm
+Description: Transparent Dock for iOS 9.0+!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cleardockDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cleardockDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: cole cabral @ca13ra1 <cabralcole@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios9
+Installed-Size: 129
+dev: ca13ra1

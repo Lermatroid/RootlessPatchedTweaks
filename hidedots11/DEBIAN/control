@@ -1,0 +1,16 @@
+Name: HideDots11
+Package: tk.1di4r.hidedots11
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 11.0)
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Description: Hide Ugly HomeScreen And LockScreen Dots on iOS 11
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidedots11Dp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidedots11Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: 1di4r <01di4r@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios11
+Installed-Size: 145
+dev: 1di4r

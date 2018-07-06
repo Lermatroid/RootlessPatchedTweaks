@@ -1,0 +1,15 @@
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pulltorespringDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pulltorespringDp
+Author: Noah Saso <noahsaso@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: PullToRespring
+Package: com.sassoty.pulltorespring
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), preferenceloader
+Section: Tweaks
+Installed-Size: 144
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Pull down in Settings to respring
+dev: sassoty
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Library/PreferenceLoader/Preferences/PullToRespring@2x.png
